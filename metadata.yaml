@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7813
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Simon_Schmucker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18107#American-Lutheranism-Vindicated--or-Examination-of-the-Lutheran-Symbols-on-Certain-Disputed-T_
 gutenberg_issued: '2006-04-02'
 gutenberg_type: Text
 identifiers:
